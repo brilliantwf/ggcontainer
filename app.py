@@ -8,4 +8,4 @@ counter = 0
 def hello():
     global counter
     counter += 1
-    return 'Hello World! I have been seen {} times.\n'.format(counter)
+    return 'Hello Felix! I have been seen {} times.\n'.format(counter)
