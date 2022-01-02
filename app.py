@@ -8,4 +8,4 @@ counter = 0
 def hello():
     global counter
     counter += 1
-    return '<h1>Hello Felix!,This is a Demo App for CI/CD. I have been seen {} times.\n</h1>'.format(counter)
+    return '<h1>Hello Felix!,This is a Demo App for GG CI V1. I have been seen {} times.\n</h1>'.format(counter)
